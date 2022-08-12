@@ -2,7 +2,7 @@
 
 ## 👀 Database E-Commerce
 
-![App Screenshot](/DB-Ecommerce.JPG)
+![App Screenshot](/images/DB-Ecommerce.JPG)
 
 
 ## 🔗 Link al DBDiagram
