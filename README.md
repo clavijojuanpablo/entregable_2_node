@@ -1,10 +1,5 @@
 # Entrega # 2
 
-## 👀 Database E-Commerce
-
-![App Screenshot](/images/DB-Ecommerce.JPG)
-
-
 ## 🔗 Link al DBDiagram
 [Haz click aquí](https://dbdiagram.io/d/62f46ab7c2d9cf52fa871856)
 
